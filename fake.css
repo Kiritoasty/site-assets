@@ -20,6 +20,12 @@ main {
     min-height: 100vh;
     padding: 20px;
 }
+
+h1 {
+    font-family: "YouTubeSansBold", sans-serif;
+    font-size: 256px; /* this is how you make the text huge */
+    color: white;
+}
  
 .topbar {
     width: 100%;
